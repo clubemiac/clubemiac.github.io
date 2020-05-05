@@ -1,0 +1,48 @@
+body{
+    background-color: #BFD7EC ;
+    margin: 0;
+}
+
+.logoContainer{
+    margin:0;
+    text-align: end;
+}
+
+.logoContainer img{
+    width: 150px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.subtext p{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 35px;
+    color:#1B1464;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+.bloque{
+    display: block;
+    width: 80vw;
+    background-color: #1B1464;
+    color: white;
+    margin: 20px auto;
+}
+
+.bloque h1{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+.imageContainer{
+    margin:0 auto;
+    text-align: center;
+}
+
+.imageContainer img{
+    width: initial;
+}
