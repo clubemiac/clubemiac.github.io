@@ -44,5 +44,28 @@ body{
 }
 
 .imageContainer img{
-    width: initial;
+    width: 80%;
+    max-width: 700px;
+}
+
+
+@media screen and (max-width: 320px){
+    .logoContainer{
+        text-align: center;
+    }
+
+    .logoContainer img{
+        padding: 0;
+
+    }
+    .subtext p {
+        font-size: 20px;
+    }
+
+    .bloque h1{
+        font-size: 30px;
+    }
+
+
+
 }
