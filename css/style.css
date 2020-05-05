@@ -47,17 +47,18 @@ body{
     width: 80%;
     max-width: 700px;
 }
-
-
-@media screen and (max-width: 320px){
+@media screen and (max-width: 720px){
     .logoContainer{
         text-align: center;
     }
 
     .logoContainer img{
         padding: 0;
-
     }
+}
+
+@media screen and (max-width: 320px){
+
     .subtext p {
         font-size: 20px;
     }
